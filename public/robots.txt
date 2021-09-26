@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /agreement/
+Disallow: /assets/
+Disallow: /cftp/
+Disallow: /.vs/
+Disallow: /ajax/
+Disallow: /bootstrap_files/
+Disallow: /customers/
+Disallow: /demo_files/
+Disallow: /ftools/
+Disallow: /images/
+Disallow: /Library/
+Disallow: /logs/
+Disallow: /src/
+Disallow: /temp/
+Disallow: /vendor/
+
+Sitemap: http://www.gorillacustommotors.com/sitemap.txt
